@@ -1,0 +1,36 @@
+#login_form {
+    position: absolute;
+    left: 40%;
+    top: 30%
+}
+
+h1 {
+    color: darkblue;
+}
+
+div.field {
+    padding-bottom: 5px;
+}
+
+div.field label {
+    display: block;
+    float: left;
+    width: 150px;
+    height: 15px;
+}
+
+.big {
+
+    font-size: 150px;
+    padding-left: 40%;
+}
+
+.error {
+    font-size: 16px;
+    color: red;
+}
+
+.error-msg {
+    font-size: 16px;
+    color: red;
+}
